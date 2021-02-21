@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.gradient{
+    background: rgb(4,177,212);
+    background: linear-gradient(90deg, rgba(4,177,212,1) 17%,
+     rgba(129,217,247,1) 49%, rgba(21,201,238,1) 79%);
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size:1.25rem;
+    color: #fff;
+}
+
+.mainFeature{
+    margin-top: 4rem;
+    font-size:1.25rem;
+    color: #fff;
+}
+
+
+/* .container img{ 
+    width: 90px;
+
+ } */
